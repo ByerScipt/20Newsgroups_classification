@@ -24,7 +24,8 @@ RandomForestClassifier(accuracy: 0.772968)
 
 
 The naming of python files might be confusing, please check classification.ipynb, which follows the logical sequence.
-alogrithm/model used:
+
+Alogrithm/Model used:
 
 KNN(accuracy: 0.732608)
 
