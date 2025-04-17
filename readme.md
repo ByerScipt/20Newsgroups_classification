@@ -1,4 +1,4 @@
-代码逻辑顺序参考classification.ipynb，包括各种尝试、优化及运行结果。
+py文件有点混乱，完整的流程在classification.ipynb
 
 使用的算法包括：
 
